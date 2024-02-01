@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@mapcomponents/react-maplibre": "^0.1.80",
+    "@mapcomponents/react-maplibre": "^0.1.96",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
