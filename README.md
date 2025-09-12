@@ -3,16 +3,22 @@
 This template is based on the vite ts-react template, and adds all 
 required basic components for a MapComponents application.
 
+## Install packages
+
+```bash
+npm i
+```
+
 ## Start the development server
 
 ```bash
-yarn dev
+npm run dev
 ```
 
 ## Build for production
 
 ```bash
-yarn build
+npm run build
 ```
 
 ## Create a new app from this template
