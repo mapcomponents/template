@@ -8,7 +8,7 @@
     "noImplicitAny": false,
 
     /* Bundler mode */
-    "moduleResolution": "node",
+    "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
     "isolatedModules": true,
