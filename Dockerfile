@@ -4,7 +4,7 @@ COPY . /usr/src/app
 RUN yarn
 RUN yarn build
 
-FROM nginxinc/nginx-unprivileged:1.29
+FROM nginxinc/nginx-unprivileged:1.31.3
 
 COPY --from=node_builder /usr/src/app/dist /usr/share/nginx/html
 EXPOSE 80
